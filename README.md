@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cimovspdhgsk1xmjtcmsxndtm0d2fm3m9dbhklu3&rid=giphy.gif&ct=g">
 <h1 align="center">I'm Nayana Senavirathna</h1>
-<h3 align="center">I'm an undergraduate in the Bachelor of Information Communication & Technology degree</h3>
+<h3 align="center">I'm an undergraduate in the Bachelor of Information Communication & Technology degree (Software systems)</h3>
 
 - 🌱 I’m currently learning **Android, React, Laravel**
 
