@@ -2,7 +2,7 @@
 <h1 align="center">I'm Nayana Senavirathna</h1>
 <h3 align="center">I'm an undergraduate in the Bachelor of Information Communication & Technology degree (Software systems)</h3>
 
-- 🌱 I’m currently learning **Android, React, Laravel**
+- 🌱 I’m currently learning **ReactJS, ExpressJS**
 
 - 📫 How to reach me **nayanads2000@gmail.com**
 
